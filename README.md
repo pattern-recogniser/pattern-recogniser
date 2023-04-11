@@ -8,6 +8,12 @@ I'm Anjali, a Data Analyst with 9️⃣ years experience in finding insights fro
 - Dashboard development and reporting
 - Exploratory data analysis
 
+🛠️ My Tools
+
+Databases: SQL, Excel
+Python: NumPy, Pandas, statsmodels
+Visualisation: Tableau, Matplotlib, Seaborn
+
 <!--
 **pattern-recogniser/pattern-recogniser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
