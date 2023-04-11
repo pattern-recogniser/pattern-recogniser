@@ -5,8 +5,11 @@ I'm Anjali, a Data Analyst with 9️⃣ years experience in finding insights fro
 💡 My Skills
 
 Data Visualizations
+
 Database design and modelling
+
 Dashboard development and reporting
+
 Exploratory data analysis
 
 <!--
