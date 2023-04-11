@@ -3,14 +3,10 @@
 I'm Anjali, a Data Analyst with 9️⃣ years experience in finding insights from data. 
 
 💡 My Skills
-
-Data Visualizations
-
-Database design and modelling
-
-Dashboard development and reporting
-
-Exploratory data analysis
+- Data Visualizations
+- Database design and modelling
+- Dashboard development and reporting
+- Exploratory data analysis
 
 <!--
 **pattern-recogniser/pattern-recogniser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
