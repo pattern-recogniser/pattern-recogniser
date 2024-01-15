@@ -23,27 +23,34 @@ A Data Scientist/ Data Analyst with 9️⃣ years experience in finding insights
 - Visualisation: Tableau, Matplotlib, Seaborn
 
 🌱 I’m currently learning
+
 - Front end Developer Path on Scrimba - Check the course out: [The Frontend Career Path](https://scrimba.com/learn/frontend)
 
-💃What else do I do for fun?
-- Crossfit
-- Improv
-- Tennis (super beginner)
-- Running
+🤔 I’m looking for help with
 
-💬 Chat with me about:
+- Navigating the negotiation talk in interviews
+- Builidng up your network from zero
+- Finding your voice and autehntic self
+
+💬 Chat with me about
+
 - Connecting women in Tech in Dublin and Ireland
 - Ranting about interviewing
 - Discussing new technologies
 - Life as an expat/ immigrant
 - Financial Independence
 
- 🤔 I’m looking for help with:
- - Navigating the negotiation talk in interviews
- - Builidng up your network from zero
- - Finding your voice and autehntic self
+💃What else do I do for fun?
 
-- 📫 How to reach me: [On LinkedIn](https://www.linkedin.com/in/anjali-karimpil/)!
+- Crossfit
+- Improv
+- Tennis (super beginner)
+- Running
+
+
+ 📫 How to reach me
+- 
+-   [On LinkedIn](https://www.linkedin.com/in/anjali-karimpil/)!
 
 <!--
 **pattern-recogniser/pattern-recogniser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
