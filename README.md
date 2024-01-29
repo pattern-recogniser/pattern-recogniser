@@ -8,7 +8,7 @@ A Data Scientist/ Data Analyst with 9️⃣ years experience in finding insights
 
 📍Dublin, Ireland
 
-💼 I’m looking for my next job. I used to work at Meta and my team was re-orged. Connect with me if you know someone hiring!
+💼 Currently on the lookout for my next opportunity. I come from a background at Meta, but my team underwent a re-org. If you know of any openings, please connect with me!
 
 💡 My Skills
 - Data Visualizations
